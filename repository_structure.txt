@@ -1,0 +1,26 @@
+SocialSync/
+├── SocialSync.py              # Main application file
+├── requirements.py            # Requirements installer
+├── README.md                  # Main documentation
+├── README.html               # HTML documentation
+├── README.txt                # Text documentation
+├── LICENSE                   # License file
+├── .gitignore               # Git ignore file
+├── docs/                    # Documentation folder
+│   ├── images/             # Documentation images
+│   └── platform_guides/    # Platform-specific guides
+├── src/                    # Source code
+│   ├── ui/                # UI components
+│   ├── platforms/         # Platform-specific code
+│   └── utils/            # Utility functions
+└── tests/                 # Test files
+    ├── test_ui/          # UI tests
+    └── test_platforms/   # Platform tests
+
+Key Files:
+- SocialSync.py: Main application entry point
+- requirements.py: Package installer
+- README files: Documentation in various formats
+- src/: Source code organization
+- docs/: Documentation and guides
+- tests/: Test suite
